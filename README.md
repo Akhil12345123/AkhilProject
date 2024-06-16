@@ -1,2 +1,2 @@
 # AkhilProject
-FlixMedia Project
+SS Cineam Project
